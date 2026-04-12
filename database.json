@@ -1,5 +1,5 @@
 {
-    "next_available_id": 1003,
+    "next_available_id": 1005,
     "songs": [
         {
             "artist": "Gorillaz",
@@ -27,6 +27,24 @@
             "last_modified": "2026-04-12T17:08:44Z",
             "title": "Ca$ino",
             "youtube_link": "https://www.youtube.com/watch?v=osdQCYqZHkY"
+        },
+        {
+            "artist": "Seedhe Maut",
+            "audio_path": "",
+            "created_at": "2026-04-12T17:19:40Z",
+            "id": 1003,
+            "last_modified": "2026-04-12T17:19:40Z",
+            "title": "Khatta Flow - Seedhe Maut ft KR$NA",
+            "youtube_link": "https://www.youtube.com/watch?v=qVcHlaFZf6A&list=RD3beb3HXqCms"
+        },
+        {
+            "artist": "Seedhe Maut",
+            "audio_path": "C:\\Users\\KIIT\\Desktop\\Music\\wavy\\build\\Desktop_Qt_6_10_2_MinGW_64_bit-Debug\\exports\\audio_1776017031.mp3",
+            "created_at": "2026-04-12T17:22:56Z",
+            "id": 1004,
+            "last_modified": "2026-04-12T18:03:57Z",
+            "title": "Seedhe Maut - 'Nanchaku' ft MC STΔN | Azadi Records",
+            "youtube_link": "https://www.youtube.com/watch?v=3beb3HXqCms"
         }
     ]
 }
