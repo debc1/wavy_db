@@ -1,5 +1,5 @@
 {
-    "next_available_id": 1006,
+    "next_available_id": 1007,
     "songs": [
         {
             "artist": "Gorillaz",
@@ -54,6 +54,15 @@
             "last_modified": "2026-04-18T07:51:16Z",
             "title": "SEE YOU AGAIN (feat. Kali Uchis)",
             "youtube_link": "https://www.youtube.com/watch?v=TGgcC5xg9YI"
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776543536.mp3",
+            "created_at": "2026-04-18T20:18:56Z",
+            "id": 1006,
+            "last_modified": "2026-04-18T20:19:01Z",
+            "title": "HUMBLE",
+            "youtube_link": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
         }
     ]
 }
