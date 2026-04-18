@@ -1,5 +1,5 @@
 {
-    "next_available_id": 1005,
+    "next_available_id": 1006,
     "songs": [
         {
             "artist": "Gorillaz",
@@ -30,10 +30,10 @@
         },
         {
             "artist": "Seedhe Maut",
-            "audio_path": "",
+            "audio_path": "C:\\Users\\KIIT\\Desktop\\Music\\wavy\\build\\Desktop_Qt_6_10_2_MinGW_64_bit-Debug\\exports\\audio_1776050556.mp3",
             "created_at": "2026-04-12T17:19:40Z",
             "id": 1003,
-            "last_modified": "2026-04-12T17:19:40Z",
+            "last_modified": "2026-04-13T03:22:43Z",
             "title": "Khatta Flow - Seedhe Maut ft KR$NA",
             "youtube_link": "https://www.youtube.com/watch?v=qVcHlaFZf6A&list=RD3beb3HXqCms"
         },
@@ -45,6 +45,15 @@
             "last_modified": "2026-04-12T18:30:22Z",
             "title": "Seedhe Maut - 'Nanchaku' ft MC STΔN | Azadi Records",
             "youtube_link": "https://www.youtube.com/watch?v=3beb3HXqCms"
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "audio_path": "C:\\Users\\KIIT\\Desktop\\Music\\wavy\\build\\Desktop_Qt_6_10_2_MinGW_64_bit-Debug\\exports\\audio_1776498670.mp3",
+            "created_at": "2026-04-18T07:51:10Z",
+            "id": 1005,
+            "last_modified": "2026-04-18T07:51:16Z",
+            "title": "SEE YOU AGAIN (feat. Kali Uchis)",
+            "youtube_link": "https://www.youtube.com/watch?v=TGgcC5xg9YI"
         }
     ]
 }
