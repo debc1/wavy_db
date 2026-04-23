@@ -1,5 +1,5 @@
 {
-    "next_available_id": 1007,
+    "next_available_id": 1009,
     "songs": [
         {
             "artist": "Gorillaz",
@@ -63,6 +63,24 @@
             "last_modified": "2026-04-18T20:19:01Z",
             "title": "HUMBLE",
             "youtube_link": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
+        },
+        {
+            "artist": "Kanye West",
+            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776871313.mp3",
+            "created_at": "2026-04-21T19:07:44Z",
+            "id": 1007,
+            "last_modified": "2026-04-22T15:22:00Z",
+            "title": "Touch The Sky",
+            "youtube_link": "https://www.youtube.com/watch?v=B95OUKk7alM"
+        },
+        {
+            "artist": "AC/DC",
+            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776944390.mp3",
+            "created_at": "2026-04-23T11:39:50Z",
+            "id": 1008,
+            "last_modified": "2026-04-23T11:39:59Z",
+            "title": "Thunderstruck",
+            "youtube_link": "https://www.youtube.com/watch?v=v2AC41dglnM&list=OLAK5uy_n3MgRzkfC2FUAtrdNH4J7IB0mCoPVp3bU"
         }
     ]
 }
