@@ -75,20 +75,11 @@
         },
         {
             "artist": "AC/DC",
-            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776944390.mp3",
+            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776956385.mp3",
             "created_at": "2026-04-23T11:39:50Z",
             "id": 1008,
             "last_modified": "2026-04-23T11:39:59Z",
             "title": "Thunderstruck",
-            "youtube_link": "https://www.youtube.com/watch?v=v2AC41dglnM&list=OLAK5uy_n3MgRzkfC2FUAtrdNH4J7IB0mCoPVp3bU"
-        },
-        {
-            "artist": "AC/DC",
-            "audio_path": "C:\\Users\\KIIT\\AppData\\Roaming\\Wavy\\Wavy\\exports\\audio_1776956385.mp3",
-            "created_at": "2026-04-23T14:59:45Z",
-            "id": 1009,
-            "last_modified": "2026-04-23T14:59:57Z",
-            "title": "Thunder",
             "youtube_link": "https://www.youtube.com/watch?v=v2AC41dglnM"
         }
     ]
